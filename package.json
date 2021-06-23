@@ -23,7 +23,7 @@
   "bin": {
     "create-react-app": "./install.js"
   },
-  "author": "Kishan Takoordyal <kihan@kinesis.games> (https://hub.kinesis.games)",
+  "author": "Kishan Takoordyal <kishan@konnect.dev> (https://me.konnect.dev)",
   "license": "MIT",
   "scripts": {
     "build:css": "npx tailwindcss build public/tailwind.css -o public/styles.css",
